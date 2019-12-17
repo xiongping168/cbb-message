@@ -21,4 +21,5 @@ public class Consumer {
 	public void handle(String message) {
 		logger.info(message);
 	}
+
 }
