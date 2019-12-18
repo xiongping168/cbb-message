@@ -46,6 +46,7 @@ public class KafkaConsumerRestImpl implements KafkaConsumerRest {
         List<String> topics = new ArrayList<>();
         for (String string : maps.keySet()) {
             topics.add(string);
+
         }
         System.out.println(topics);
 
