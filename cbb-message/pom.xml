@@ -16,7 +16,7 @@
     <description>kafka-with-spring-cloud-stream</description>
 
     <properties>
-        <msyql.connector.version>5.1.47</msyql.connector.version>
+        <msyql.connector.version>8.0.28</msyql.connector.version>
         <swagger2.version>2.8.0</swagger2.version>
         <nacos.version>0.9.0.RELEASE</nacos.version>
         <java.version>1.8</java.version>
